@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+width:1364px ;
+height: 100px;
+background-color:rgb(56, 52, 47) ;
+border-radius: 4px;
+}
+
+.header1{
+  position: relative;
+  top: 20px;
+  left: 90px;
+color: rgb(213, 222, 223);
+font-size: 50px;
+
+}
+.apple{
+  color: aliceblue;
+}
+.logo2{
+    position: relative;
+  top: -35px;
+  left: 220px;
+color: rgb(38, 198, 216);
+font-size: 50px;
+}
+.logo34{
+
+    position: relative;
+    top: -345px;
+    left: 385px;
+  color: rgb(144, 164, 221);
+  font-size: 50px;
+
+}
+.logo3{
+    position: relative;
+    top: -95px;
+    left: 555px;
+  color: rgb(238, 70, 18);
+  font-size: 50px;
+}
+.logo4{
+
+    position: relative;
+  top: -160px;
+  left: 725px;
+
+font-size: 50px;  
+}
+.logo5{
+    position: relative;
+    top: -235px;
+    left: 1030px;
+  color: rgb(96, 122, 207);
+  font-size: 50px;  
+     
+}
+.logo6{
+    position: relative;
+    top: -295px;
+    left: 1195px;
+  color: rgb(238, 109, 23);
+  font-size: 50px;  
+     
+
+}
+
+
+
+.footer{
+    position: relative;
+    top: 200px;
+    left: 40%;
+width: 69px;
+height: 20px;
+background-color: rgb(245, 215, 215);
+border-radius: 12px;
+}
+.telega{
+    color: blueviolet;
+}
+telega:hover{
+    cursor: pointer;
+}
+
